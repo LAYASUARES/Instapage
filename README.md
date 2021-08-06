@@ -1,2 +1,2 @@
 # Instapage
-Front perfile page
+Front profile page
